@@ -1,0 +1,7 @@
+{
+  "name": "techorbit", "version": "1.0.0", "private": true,
+  "scripts": { "dev": "next dev --hostname 127.0.0.1", "build": "next build", "start": "next start --hostname 127.0.0.1", "typecheck": "tsc --noEmit" },
+  "dependencies": { "next": "latest", "react": "^19.0.0", "react-dom": "^19.0.0", "three": "^0.182.0", "@react-three/fiber": "^9.0.0", "lucide-react": "latest" },
+  "devDependencies": { "typescript": "^5.0.0", "@types/node": "^22.0.0", "@types/react": "^19.0.0", "@types/react-dom": "^19.0.0", "@types/three": "^0.182.0", "@playwright/test": "latest" },
+  "engines": { "node": ">=22.0.0" }
+}

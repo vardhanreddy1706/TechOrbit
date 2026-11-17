@@ -1,0 +1,5 @@
+Project screenshots: supplied by TechOrbit, used unmodified.
+TechOrbit logos: supplied by TechOrbit, used unmodified.
+Technology logos: Devicon v2.17.0 (MIT), https://github.com/devicons/devicon/tree/v2.17.0
+Meta and Instagram glyphs: Simple Icons CDN, https://simpleicons.org/ (CC0 collection; trademarks belong to their owners).
+Logos identify relevant tools and platforms, not partners or endorsements.

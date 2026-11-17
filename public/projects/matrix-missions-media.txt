@@ -1,0 +1,9 @@
+Matrix Missions portfolio film
+Original file supplied by the user: 20261116-1827-52.9137595.mp4
+Selected interval: 16.50–26.50 seconds; output duration 10.00 seconds / 300 frames at 30 fps.
+Edits: trim; resize; H.264 web encoding; audio omitted; metadata removed; fast-start MP4.
+Desktop rendition: 1600x812. Mobile rendition: 960x488.
+Poster extracted from 3.70 seconds of the edited clip (20.20 seconds of the source).
+Confirmed project URL: https://matrixmissions.in
+Public website read on 2026-11-17: title identifies forex and cryptocurrency trading services.
+Portfolio scope: the supplied website interface and motion design; no exchange infrastructure, regulatory status, returns, or implementation stack is asserted.

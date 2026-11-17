@@ -1,0 +1,17 @@
+.project-film{overflow:hidden;text-align:left}
+.project-film:hover{transform:none}
+.film-stage{position:relative;aspect-ratio:400/203;background:#07090e;overflow:hidden}
+.film-stage video{display:block;width:100%;height:100%;object-fit:contain;background:#07090e}
+.film-expand{display:grid;place-items:center;padding:6px;border-radius:3px;background:none;color:var(--muted);min-width:28px;min-height:28px}
+.film-expand:hover{background:var(--line);color:var(--text)}
+.film-play-overlay{position:absolute;inset:0;display:grid;place-items:center;width:100%;padding:0;background:linear-gradient(0deg,#03050b88,transparent 47%);color:#fff;cursor:pointer}
+.film-play-icon{display:grid;place-items:center;width:80px;height:80px;padding-left:4px;border:1px solid #ffffff70;border-radius:50%;background:#080a125c;backdrop-filter:blur(12px);box-shadow:0 10px 45px #0003;transition:transform .25s,background .25s}
+.film-play-overlay:hover .film-play-icon{transform:scale(1.08);background:#1769ffb3;border-color:#98bbff}
+.film-play-overlay>span:last-child{position:absolute;left:28px;bottom:25px;text-align:left;font-size:10px;letter-spacing:1.6px;line-height:1.6}
+.film-play-overlay small{display:block;font-size:8px;color:#c0c7d9;letter-spacing:1.2px;margin-top:5px}
+.film-error{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:15px;background:#080a12ec;color:#f5f7ff;text-align:center;padding:25px}
+.film-error p{color:#e0e5f5;font-size:13px;max-width:380px}
+.film-error>div{display:flex;flex-wrap:wrap;justify-content:center;gap:25px}
+.film-error .text-link{color:#b6caff;font-size:12px}
+.project-dialog .film-large{border:0;border-radius:0;box-shadow:none}
+@media(max-width:760px){.film-play-icon{height:53px;width:53px}.film-play-icon svg{width:18px;height:18px}.film-play-overlay>span:last-child{font-size:7px;letter-spacing:1px;left:16px;bottom:12px}.film-play-overlay small{font-size:6px;margin-top:3px;letter-spacing:.8px}.film-expand{min-width:32px;min-height:28px;padding:4px}.project-film .browser-bar{height:32px;gap:8px;font-size:6px}.film-error{gap:9px;padding:15px}.film-error p{font-size:11px;line-height:1.5}.film-error>div{gap:17px}.film-error .text-link{font-size:10px;min-height:30px}}
